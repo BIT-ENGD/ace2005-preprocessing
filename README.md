@@ -4,6 +4,10 @@ This is a simple code for preprocessing ACE 2005 corpus for Event Extraction tas
 
 Using the existing methods were complicated for me, so I made this project.
 
+## Chinese Tutorial
+
+https://python.iitter.com/other/72901.html
+
 ## Prerequisites
 
 1. Prepare **ACE 2005 dataset**. 
